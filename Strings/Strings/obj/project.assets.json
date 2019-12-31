@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dr Sam Hyde\\source\\repos\\Strings\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Strings\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\Strings\\Strings\\Strings.csproj",
+      "projectPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Strings\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\Dr Sam Hyde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\Strings\\Strings\\obj\\",
+      "outputPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Strings\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

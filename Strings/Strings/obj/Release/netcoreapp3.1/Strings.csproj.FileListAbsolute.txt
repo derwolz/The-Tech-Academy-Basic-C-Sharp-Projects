@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\bin\Release\netcoreapp3.1\Strings.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\obj\Release\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\obj\Release\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\obj\Release\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\obj\Release\netcoreapp3.1\Strings.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Strings\Strings\obj\Release\netcoreapp3.1\Strings.pdb
