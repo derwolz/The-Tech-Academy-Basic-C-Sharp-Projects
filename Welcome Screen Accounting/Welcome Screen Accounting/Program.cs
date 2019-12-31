@@ -15,8 +15,8 @@ namespace Welcome_Screen_Accounting
             byte hoursWorked = 42;
             sbyte currentTemperature = -23;
             char randomLetter = 'K';
-            char questionMark = '\u2103';
-            Console.WriteLine(questionMark);
+            
+            Console.WriteLine("the man said \\Hello\" \n Jim");
         }
     }
 }
