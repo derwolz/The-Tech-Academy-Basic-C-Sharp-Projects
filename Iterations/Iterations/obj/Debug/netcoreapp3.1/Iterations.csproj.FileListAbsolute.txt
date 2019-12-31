@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\bin\Debug\netcoreapp3.1\Iterations.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\Iterations\obj\Debug\netcoreapp3.1\Iterations.pdb
