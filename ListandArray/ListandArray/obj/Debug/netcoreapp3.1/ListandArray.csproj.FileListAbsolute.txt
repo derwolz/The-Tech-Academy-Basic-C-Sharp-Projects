@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.exe
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.deps.json
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.dll
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\bin\Debug\netcoreapp3.1\ListandArray.pdb
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\obj\Debug\netcoreapp3.1\ListandArray.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\obj\Debug\netcoreapp3.1\ListandArray.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\obj\Debug\netcoreapp3.1\ListandArray.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\obj\Debug\netcoreapp3.1\ListandArray.dll
+C:\Users\Dr Sam Hyde\source\repos\ListandArray\ListandArray\obj\Debug\netcoreapp3.1\ListandArray.pdb
