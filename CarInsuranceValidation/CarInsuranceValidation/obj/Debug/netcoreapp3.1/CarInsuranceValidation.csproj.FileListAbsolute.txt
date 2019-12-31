@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\obj\Debug\netcoreapp3.1\CarInsuranceValidation.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\obj\Debug\netcoreapp3.1\CarInsuranceValidation.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\obj\Debug\netcoreapp3.1\CarInsuranceValidation.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\bin\Debug\netcoreapp3.1\CarInsuranceValidation.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\obj\Debug\netcoreapp3.1\CarInsuranceValidation.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceValidation\CarInsuranceValidation\obj\Debug\netcoreapp3.1\CarInsuranceValidation.pdb

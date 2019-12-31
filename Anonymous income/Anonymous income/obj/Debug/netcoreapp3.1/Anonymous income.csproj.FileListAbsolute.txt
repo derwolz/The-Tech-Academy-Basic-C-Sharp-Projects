@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\bin\Debug\netcoreapp3.1\Anonymous income.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\obj\Debug\netcoreapp3.1\Anonymous income.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\obj\Debug\netcoreapp3.1\Anonymous income.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\obj\Debug\netcoreapp3.1\Anonymous income.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\obj\Debug\netcoreapp3.1\Anonymous income.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous income\Anonymous income\obj\Debug\netcoreapp3.1\Anonymous income.pdb

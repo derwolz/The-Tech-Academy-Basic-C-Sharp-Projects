@@ -1,0 +1,10 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\bin\Debug\netcoreapp3.1\DailyReportforStudents.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\obj\Debug\netcoreapp3.1\DailyReportforStudents.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\obj\Debug\netcoreapp3.1\DailyReportforStudents.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\obj\Debug\netcoreapp3.1\DailyReportforStudents.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DailyReportforStudents\DailyReportforStudents\obj\Debug\netcoreapp3.1\DailyReportforStudents.pdb

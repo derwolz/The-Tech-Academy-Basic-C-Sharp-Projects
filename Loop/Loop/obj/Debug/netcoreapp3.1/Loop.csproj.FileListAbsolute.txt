@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache

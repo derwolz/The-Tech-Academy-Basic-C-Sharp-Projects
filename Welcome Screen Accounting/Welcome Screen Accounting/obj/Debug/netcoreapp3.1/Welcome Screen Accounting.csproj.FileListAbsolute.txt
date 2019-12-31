@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\bin\Debug\netcoreapp3.1\Welcome Screen Accounting.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\obj\Debug\netcoreapp3.1\Welcome Screen Accounting.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\obj\Debug\netcoreapp3.1\Welcome Screen Accounting.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\obj\Debug\netcoreapp3.1\Welcome Screen Accounting.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\obj\Debug\netcoreapp3.1\Welcome Screen Accounting.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome Screen Accounting\Welcome Screen Accounting\obj\Debug\netcoreapp3.1\Welcome Screen Accounting.pdb

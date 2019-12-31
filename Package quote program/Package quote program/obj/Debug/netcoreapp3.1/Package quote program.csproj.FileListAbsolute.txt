@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\bin\Debug\netcoreapp3.1\Package quote program.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\obj\Debug\netcoreapp3.1\Package quote program.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\obj\Debug\netcoreapp3.1\Package quote program.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\obj\Debug\netcoreapp3.1\Package quote program.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\obj\Debug\netcoreapp3.1\Package quote program.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Package quote program\Package quote program\obj\Debug\netcoreapp3.1\Package quote program.pdb
