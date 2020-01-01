@@ -22,13 +22,15 @@ namespace Package_quote_program
             int packageWidth = Int32.Parse(Console.ReadLine());
             Console.WriteLine("What is the height of the package?");
             int packageHeight = Int32.Parse(Console.ReadLine());
-            if (packageHeight + packageWidth > maxDimensions)
+            Console.WriteLine("What is the length of the package?");
+            int packageLength = Int32.Parse(Console.ReadLine());
+            if (packageHeight + packageWidth + packageLength > maxDimensions)
             {
                 Console.WriteLine("That package is too large to ship. Have a good day.");
                 Console.Read();
                 Environment.Exit(0);
             }
-            float quote = (packageWidth + packageHeight) * packageWeight;
+            float quote = (packageWidth + packageHeight + packageLength) * packageWeight;
             quote = quote / 100;
             Console.WriteLine($"Your package will cost ${quote} to ship.");
             Console.Read();
