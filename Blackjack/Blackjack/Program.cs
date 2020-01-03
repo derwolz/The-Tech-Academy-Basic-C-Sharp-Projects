@@ -7,19 +7,11 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            int x = 7;
-            int y = 19;
-            two_outs Two = new two_outs();
-         
-            Console.WriteLine("X:{0} Y:{1}", x, y);
-            Two.Changebothtofive(out x,out y);
-            Console.WriteLine("X:{0} Y:{1}", x, y);
-            
-            
+            BlackJack game = new BlackJack();
+            game.Players = new List<string>() { "Bill", "Derek", "Chuck" };
+            game.ListPlayers();
             Console.ReadLine();
-            Console.Clear();
-            Console.WriteLine("Here is a randomly sorted deck of standard playing cards");
-
+            game.Play();
             Deck deck = new Deck();
             Console.WriteLine(deck.Cards.Count);
             deck = Shuffle(deck, 5);

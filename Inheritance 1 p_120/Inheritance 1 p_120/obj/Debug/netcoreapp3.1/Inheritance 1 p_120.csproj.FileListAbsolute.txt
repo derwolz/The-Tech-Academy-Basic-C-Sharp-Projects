@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\bin\Debug\netcoreapp3.1\Inheritance 1 p_120.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\obj\Debug\netcoreapp3.1\Inheritance 1 p_120.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\obj\Debug\netcoreapp3.1\Inheritance 1 p_120.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\obj\Debug\netcoreapp3.1\Inheritance 1 p_120.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\obj\Debug\netcoreapp3.1\Inheritance 1 p_120.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Inheritance 1 p_120\Inheritance 1 p_120\obj\Debug\netcoreapp3.1\Inheritance 1 p_120.pdb

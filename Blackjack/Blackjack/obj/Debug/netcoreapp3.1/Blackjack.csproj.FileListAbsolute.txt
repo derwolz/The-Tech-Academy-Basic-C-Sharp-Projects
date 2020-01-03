@@ -9,3 +9,14 @@ C:\Users\Dr Sam Hyde\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Bl
 C:\Users\Dr Sam Hyde\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
 C:\Users\Dr Sam Hyde\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
 C:\Users\Dr Sam Hyde\source\repos\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb

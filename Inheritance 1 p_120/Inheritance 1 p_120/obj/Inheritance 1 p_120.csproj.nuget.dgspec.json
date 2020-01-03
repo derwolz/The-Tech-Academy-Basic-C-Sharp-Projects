@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Blackjack\\Blackjack.csproj": {}
+    "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Inheritance 1 p_120\\Inheritance 1 p_120\\Inheritance 1 p_120.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Blackjack\\Blackjack.csproj": {
+    "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Inheritance 1 p_120\\Inheritance 1 p_120\\Inheritance 1 p_120.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Blackjack\\Blackjack.csproj",
-        "projectName": "Blackjack",
-        "projectPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Blackjack\\Blackjack.csproj",
+        "projectUniqueName": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Inheritance 1 p_120\\Inheritance 1 p_120\\Inheritance 1 p_120.csproj",
+        "projectName": "Inheritance 1 p_120",
+        "projectPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Inheritance 1 p_120\\Inheritance 1 p_120\\Inheritance 1 p_120.csproj",
         "packagesPath": "C:\\Users\\Dr Sam Hyde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Blackjack\\obj\\",
+        "outputPath": "C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Inheritance 1 p_120\\Inheritance 1 p_120\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
