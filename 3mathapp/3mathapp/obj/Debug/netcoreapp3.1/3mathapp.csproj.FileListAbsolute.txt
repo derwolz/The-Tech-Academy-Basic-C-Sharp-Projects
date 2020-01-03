@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\bin\Debug\netcoreapp3.1\3mathapp.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\obj\Debug\netcoreapp3.1\3mathapp.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\obj\Debug\netcoreapp3.1\3mathapp.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\obj\Debug\netcoreapp3.1\3mathapp.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\obj\Debug\netcoreapp3.1\3mathapp.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\3mathapp\3mathapp\obj\Debug\netcoreapp3.1\3mathapp.pdb
