@@ -1,0 +1,10 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\bin\Debug\netcoreapp3.1\Two parameter method.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\obj\Debug\netcoreapp3.1\Two parameter method.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\obj\Debug\netcoreapp3.1\Two parameter method.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\obj\Debug\netcoreapp3.1\Two parameter method.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Two parameter method\Two parameter method\obj\Debug\netcoreapp3.1\Two parameter method.pdb

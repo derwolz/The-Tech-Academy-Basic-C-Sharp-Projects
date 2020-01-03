@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two parameter method", "Two parameter method\Two parameter method.csproj", "{DABDAB06-D9A9-4511-977D-A64875BF0273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABDAB06-D9A9-4511-977D-A64875BF0273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABDAB06-D9A9-4511-977D-A64875BF0273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABDAB06-D9A9-4511-977D-A64875BF0273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABDAB06-D9A9-4511-977D-A64875BF0273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535084FE-8490-4CBF-9A6A-AD015821F6C0}
+	EndGlobalSection
+EndGlobal
