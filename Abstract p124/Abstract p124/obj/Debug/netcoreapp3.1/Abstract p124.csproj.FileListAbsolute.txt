@@ -1,0 +1,10 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\bin\Debug\netcoreapp3.1\Abstract p124.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.pdb
