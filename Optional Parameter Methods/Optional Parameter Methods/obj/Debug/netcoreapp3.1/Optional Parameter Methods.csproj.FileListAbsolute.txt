@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\obj\Debug\netcoreapp3.1\Optional Parameter Methods.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\obj\Debug\netcoreapp3.1\Optional Parameter Methods.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\obj\Debug\netcoreapp3.1\Optional Parameter Methods.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\bin\Debug\netcoreapp3.1\Optional Parameter Methods.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\obj\Debug\netcoreapp3.1\Optional Parameter Methods.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Optional Parameter Methods\Optional Parameter Methods\obj\Debug\netcoreapp3.1\Optional Parameter Methods.pdb
