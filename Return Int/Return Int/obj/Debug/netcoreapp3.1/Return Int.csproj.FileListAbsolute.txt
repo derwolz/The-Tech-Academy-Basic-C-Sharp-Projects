@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\bin\Debug\netcoreapp3.1\Return Int.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\obj\Debug\netcoreapp3.1\Return Int.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\obj\Debug\netcoreapp3.1\Return Int.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\obj\Debug\netcoreapp3.1\Return Int.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\obj\Debug\netcoreapp3.1\Return Int.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Return Int\Return Int\obj\Debug\netcoreapp3.1\Return Int.pdb
