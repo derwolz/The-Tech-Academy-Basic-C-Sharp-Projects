@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\bin\Debug\netcoreapp3.1\General Methods.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\obj\Debug\netcoreapp3.1\General Methods.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\obj\Debug\netcoreapp3.1\General Methods.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\obj\Debug\netcoreapp3.1\General Methods.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\obj\Debug\netcoreapp3.1\General Methods.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\General Methods\General Methods\obj\Debug\netcoreapp3.1\General Methods.pdb
