@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Abstract_p124
 {
-    class Employee : Person, IQuittable //step 3 //step 2 2nd drill
+    public class Employee : Person, IQuittable //step 3 //step 2 2nd drill
     {
         public int Id { get; set; }
         public override void SayName() //step 4
@@ -15,5 +15,25 @@ namespace Abstract_p124
         {
             Console.WriteLine("{0} {1} Quits", FirstName, LastName);
         }
+        public static bool operator == (Employee employee, Employee employee2)
+        {
+            bool isTrue = employee.Id == employee2.Id;
+            return isTrue;
+        }
+        public static bool operator!= (Employee employee, Employee employee2)
+        {
+            bool isTrue = employee.Id != employee2.Id;
+            return isTrue;
+        }
+        public override bool Equals(Object o)
+        {
+            bool isTrue = this.Id == o.GetHashCode();
+            return isTrue;
+        }
+        public override int GetHashCode()
+        {
+            return this.Id;
+        }
+
     }
 }

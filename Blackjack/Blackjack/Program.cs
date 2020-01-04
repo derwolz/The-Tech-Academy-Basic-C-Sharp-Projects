@@ -8,9 +8,13 @@ namespace Blackjack
         static void Main(string[] args)
         {
             
-            Game game = new BlackJack();
-            game.Players = new List<string>() { "Billy", "Willy", "Jilly" };
-            game.ListPlayers();
+            Game game1 = new BlackJack();
+            
+            Player player1 = new Player();
+            player1.Name = "jesse";
+            game1 += player1;
+            game1 -= player1;
+            game1.ListPlayers();
 
             
           
