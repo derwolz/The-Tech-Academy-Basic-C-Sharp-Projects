@@ -16,8 +16,6 @@ namespace Blackjack
             game1 -= player1;
             game1.ListPlayers();
 
-            
-          
         }
         
         
