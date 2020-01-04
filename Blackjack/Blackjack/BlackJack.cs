@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Blackjack
 {
-    class BlackJack : Game
+    class BlackJack : Game, IWalkAway
     {
         public override void Play()
         {
@@ -15,6 +15,10 @@ namespace Blackjack
             Console.WriteLine("BlackJack Players");
             base.ListPlayers();
 
+        }
+        public void WalkAway(Player player)
+        {
+            throw new NotFiniteNumberException();
         }
     }
 }

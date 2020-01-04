@@ -8,3 +8,4 @@ C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstra
 C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.AssemblyInfo.cs
 C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.dll
 C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Abstract p124\Abstract p124\obj\Debug\netcoreapp3.1\Abstract p124.csprojAssemblyReference.cache
