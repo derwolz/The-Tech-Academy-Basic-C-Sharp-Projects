@@ -12,7 +12,7 @@ namespace Two_parameter_method
 
             Console.WriteLine("X:{0} Y:{1}", x, y);
             Two.Changebothtofive(x:x, f: out y);
-            Console.WriteLine("X:{0} Y:{1}", x, y);
+            
             Console.ReadLine();
         }
     }

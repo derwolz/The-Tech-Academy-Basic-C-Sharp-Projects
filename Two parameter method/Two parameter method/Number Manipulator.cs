@@ -25,8 +25,8 @@ namespace Two_parameter_method
         }
         public void Changebothtofive(int x, out int f)
         {
-
-            f = x+2;
+            f = x + 7;
+            Console.WriteLine("X:{0} Y:{1}", x, f);
             return;
 
         }
