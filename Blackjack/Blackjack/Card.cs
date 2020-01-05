@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Blackjack
 {
-    public class Card
+    public struct Card
     {
         //suit
         public enum Suit

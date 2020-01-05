@@ -1,0 +1,10 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\bin\Debug\netcoreapp3.1\Struct Practice.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\obj\Debug\netcoreapp3.1\Struct Practice.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\obj\Debug\netcoreapp3.1\Struct Practice.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\obj\Debug\netcoreapp3.1\Struct Practice.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Practice\Struct Practice\obj\Debug\netcoreapp3.1\Struct Practice.pdb
