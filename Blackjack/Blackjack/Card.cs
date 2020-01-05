@@ -7,15 +7,33 @@ namespace Blackjack
     public class Card
     {
         //suit
-        public string Suit { get; set; }
+        public enum Suit
+        {
+            Spades,
+            Hearts,
+            Diamonds,
+            Clubs,
+        }
+        public enum Face
+        {
+            Ace,
+            Two,
+            Three,
+            Four,
+            Five,
+            Six,
+            Seven,
+            Eight,
+            Nine,
+            Jack,
+            Queen,
+            King,
+        }
+        public Suit suit { get; set; }
         //value
-        public string Face { get; set; }
+        public Face face { get; set; }
         //faceup
         public bool isFaceUp { get; set; }
-        public Card()
-        {
-            this.Face = "Two";
-            this.Suit = "Spades";
-        }
+        
     }
 }

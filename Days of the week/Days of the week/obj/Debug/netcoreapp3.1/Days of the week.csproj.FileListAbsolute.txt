@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\bin\Debug\netcoreapp3.1\Days of the week.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\obj\Debug\netcoreapp3.1\Days of the week.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\obj\Debug\netcoreapp3.1\Days of the week.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\obj\Debug\netcoreapp3.1\Days of the week.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\obj\Debug\netcoreapp3.1\Days of the week.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Days of the week\Days of the week\obj\Debug\netcoreapp3.1\Days of the week.pdb
