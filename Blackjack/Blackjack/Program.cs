@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Blackjack
 {
@@ -17,11 +20,15 @@ namespace Blackjack
             //game1.ListPlayers();
 
             Deck deck = new Deck();
-            Console.WriteLine(deck.Cards.Count);
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine("{0} of {1}", card.face, card.suit);
-            }
+
+            
+            
+            
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine("{0} of {1}", card.face, card.suit);
+            //}
         }
         
         
