@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\bin\Debug\netcoreapp3.1\DateTime Practice.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\obj\Debug\netcoreapp3.1\DateTime Practice.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\obj\Debug\netcoreapp3.1\DateTime Practice.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\obj\Debug\netcoreapp3.1\DateTime Practice.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\obj\Debug\netcoreapp3.1\DateTime Practice.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\DateTime Practice\DateTime Practice\obj\Debug\netcoreapp3.1\DateTime Practice.pdb
