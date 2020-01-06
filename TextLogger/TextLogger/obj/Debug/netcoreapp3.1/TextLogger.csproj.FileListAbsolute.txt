@@ -1,0 +1,11 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\bin\Debug\netcoreapp3.1\TextLogger.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\obj\Debug\netcoreapp3.1\TextLogger.csprojAssemblyReference.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\obj\Debug\netcoreapp3.1\TextLogger.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\obj\Debug\netcoreapp3.1\TextLogger.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\obj\Debug\netcoreapp3.1\TextLogger.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TextLogger\TextLogger\obj\Debug\netcoreapp3.1\TextLogger.pdb

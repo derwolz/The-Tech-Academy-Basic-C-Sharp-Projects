@@ -6,6 +6,10 @@ namespace Blackjack
 {
     public struct Card
     {
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}",face, suit);
+        }
         //suit
         public enum Suit
         {
@@ -25,6 +29,7 @@ namespace Blackjack
             Seven,
             Eight,
             Nine,
+            Ten,
             Jack,
             Queen,
             King,
