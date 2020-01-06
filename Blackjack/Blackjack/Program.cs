@@ -12,17 +12,22 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            string text = "Here is some text";
-            File.WriteAllText(@"C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\log.txt", text);
-            text = File.ReadAllText(@"C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\log.txt");
-            Console.WriteLine(text);
+            
 
 
             Console.WriteLine("BlackJack Game");
             Console.WriteLine("What is Player 1's name");
             string playerName = Console.ReadLine();
-            Console.WriteLine("How much money did you want to play with today");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            
+            int bank = 0;
+            bool correctResponseType = false;
+            
+            while (!correctResponseType)
+            {
+                Console.WriteLine("How much money did you want to play with today");
+                correctResponseType = Int32.TryParse(Console.ReadLine(), out bank);
+                Console.WriteLine("Enter a number with no decimal value");
+            }
             Console.WriteLine("Would you like to join a game of BlackJack, {0}", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "ya")
@@ -38,7 +43,23 @@ namespace Blackjack
                 player.isActive = true;
                 while (player.isActive && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FormatException)
+                    {
+                        Console.WriteLine("That value needs to be a number");
+                    }
+                    catch (Fraud_Exception)
+                    {
+                        Console.WriteLine("Kick this guy outta here");
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Error Occured Contact System Administrator");
+                    }
+                    
                     
                 }
                 game -= player;

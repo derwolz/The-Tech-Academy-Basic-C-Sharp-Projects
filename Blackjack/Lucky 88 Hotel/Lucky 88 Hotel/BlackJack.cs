@@ -30,10 +30,17 @@ namespace Casino.BlackJack
             dealer.Deck = new Deck(); //instantiates new deck, should dissallow  losing of cards
             dealer.Deck.Shuffle(7);
             Console.WriteLine("Place your bet");
+            bool correctResponseType = false;
             foreach (Player player in Players) // get bets from all players
             {
-                Console.WriteLine("Player Balance: {0}", player.Balance);
-                int bet = Convert.ToInt32(Console.ReadLine());
+                int bet = 0;
+                while (!correctResponseType)
+                {
+                    Console.WriteLine("Player Balance: {0}", player.Balance);
+                    correctResponseType = int.TryParse(Console.ReadLine(), out bet);
+                    Console.WriteLine("Enter a number with no decimal value");
+                }
+                if (bet < 0) throw new Fraud_Exception();
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
