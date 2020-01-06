@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
 
 namespace Blackjack
 {
@@ -27,7 +28,12 @@ namespace Blackjack
             if (answer == "yes" || answer == "y" || answer == "yeah" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
-                Game game = new BlackJack();
+                player.id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\\Users\\Dr Sam Hyde\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Blackjack\\Cardlog.txt"))
+                {
+                    file.WriteLine(player.id);
+                }
+                Game game = new Casino.BlackJack.BlackJack();
                 game += player;
                 player.isActive = true;
                 while (player.isActive && player.Balance > 0)

@@ -1,0 +1,8 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\bin\Release\netstandard2.0\Lucky 88 Hotel.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\bin\Release\netstandard2.0\Lucky 88 Hotel.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\bin\Release\netstandard2.0\Lucky 88 Hotel.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\obj\Release\netstandard2.0\Lucky 88 Hotel.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\obj\Release\netstandard2.0\Lucky 88 Hotel.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\obj\Release\netstandard2.0\Lucky 88 Hotel.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\obj\Release\netstandard2.0\Lucky 88 Hotel.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack\Lucky 88 Hotel\Lucky 88 Hotel\obj\Release\netstandard2.0\Lucky 88 Hotel.csprojAssemblyReference.cache

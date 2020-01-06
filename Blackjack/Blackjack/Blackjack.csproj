@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Lucky 88 Hotel">
+      <HintPath>..\Lucky 88 Hotel\Lucky 88 Hotel\bin\Release\netstandard2.0\Lucky 88 Hotel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

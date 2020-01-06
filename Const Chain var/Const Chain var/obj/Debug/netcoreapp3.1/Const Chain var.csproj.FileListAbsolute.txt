@@ -1,0 +1,10 @@
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.exe
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.deps.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.runtimeconfig.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.runtimeconfig.dev.json
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\bin\Debug\netcoreapp3.1\Const Chain var.pdb
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\obj\Debug\netcoreapp3.1\Const Chain var.AssemblyInfoInputs.cache
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\obj\Debug\netcoreapp3.1\Const Chain var.AssemblyInfo.cs
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\obj\Debug\netcoreapp3.1\Const Chain var.dll
+C:\Users\Dr Sam Hyde\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Const Chain var\Const Chain var\obj\Debug\netcoreapp3.1\Const Chain var.pdb
